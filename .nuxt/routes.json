@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/victor/public_html/nuxtjs-platzi/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7678a710"
+  }
+]
